@@ -1,0 +1,10 @@
+pip3 install torch
+pip3 install tensorflow==2.5.0
+pip3 install numpy
+pip3 install unidecode
+pip3 install matplotlib
+pip3 install phonemizer
+pip3 install gtts
+pip3 install tensorflow-addons
+pip3 install pillow
+pip3 install librosa
